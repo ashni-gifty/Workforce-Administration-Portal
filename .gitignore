@@ -11,6 +11,13 @@ frontend/dist/
 # Environment files
 .env
 *.env
+**/.env
+
+# Python
+pycache/
+*.py[cod]
 
 # VS Code
 .vscode/
+
+
