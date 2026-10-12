@@ -1,0 +1,16 @@
+# Backend
+backend/myvirtualenv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/db.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+*.env
+
+# VS Code
+.vscode/
